@@ -6,7 +6,7 @@ Then User searched for same shortname <Name> in offers page to check if product 
 Examples:
 |Name|
 |Tom|
-|Strawberry|
+|Straw|
 
 Scenario:Test add to cart functionality
 Given User is on Greencart landing page
